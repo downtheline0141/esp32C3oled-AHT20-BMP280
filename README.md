@@ -1,5 +1,7 @@
 # ESP32 Temperature, Humidity, and Pressure Monitor
 
+![イメージ](docs/IMG_20261018_094817099~3.jpg)
+
 ESP32-C3とOLEDディスプレイ、AHT20・BMP280センサーを使った環境モニターです。
 温度、湿度、気圧を定期的に取得し、OLEDに自動で切り替えながら表示します。
 
