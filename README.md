@@ -11,7 +11,7 @@ ESP32 C3 OLEDを使った温湿度表示器の電子工作キットです。
 
 ## 配線方法
 
-![配線図](docs\esp32C3oled-AHT20-BMP280_ブレッドボード.png)
+![配線図](docs/esp32C3oled-AHT20-BMP280_ブレッドボード.png)
 
 ## 動作環境
 
