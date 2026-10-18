@@ -28,8 +28,8 @@ ESP32-C3とOLEDディスプレイ、AHT20・BMP280センサーを使った環境
 
 ## 配線
 
-配線図は [docs/esp32C3oled-AHT20-BMP280_ブレッドボード.png](docs/esp32C3oled-AHT20-BMP280_ブレッドボード.png)
-を参照してください。OLEDとセンサーは別のI2Cピンを使用します。
+![配線図](docs/esp32C3oled-AHT20-BMP280_ブレッドボード.png) 
+OLEDとセンサーは別のI2Cピンを使用します。
 
 | 接続先 | VCC | GND | SDA | SCL |
 | --- | --- | --- | --- | --- |
